@@ -1,10 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://homarr.dev/img/pictures/homarr-devices-preview/compressed/homarr-devices-2d-mockup-flat-shadow-light-compressed.webp" height="400" />
+  <br/>
+  <br/>
+  <br/>
+  <div>
+    <img src="https://homarr.dev/img/logo.png" height="40" />
+    <h1>Homarr</h1>
+    <h4>Simplify the management of your server with Homarr - a sleek, modern dashboard that puts all of your apps and services at your fingertips. With Homarr, you can access and control everything in one convenient location. Homarr seamlessly integrates with the apps you've added, providing you with valuable information and giving you complete control. Installation is a breeze, and Homarr supports a wide range of deployment methods.</h4>
+  </div>
+</div>
 
+<br/>
+<br/>
+<br/>
+<br/>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- Documentation: https://homarr.dev/
